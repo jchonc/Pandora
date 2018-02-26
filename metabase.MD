@@ -1,5 +1,6 @@
 #Some hypothesis around Metabase
 
+
 ##Background
 * Both MSSQL and PostgreSQL support some JSON based operations.
 * Most of the information in a MetaDataSet is load/manipulate/saved as a whole.
